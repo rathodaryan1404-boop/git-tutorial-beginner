@@ -4,4 +4,4 @@ Thr best ways are:
 - Est
 - Sleep
 - Code
-- Repect
+- repect
